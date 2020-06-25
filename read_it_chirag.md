@@ -1,2 +1,9 @@
-I think you should a label above three buttons showing "Password Manager By Cousins" and shifted the buttons in middle of window along with title and logo.
-And the rest of the things are perfect bro.
+I have added signup and login page to our application.
+
+Please review it and if you can't get anything please contact me.
+
+If everything is ok then please add styles there.
+
+Please do not style show_passwords frame.
+
+Hoping a positive reply from your side.
